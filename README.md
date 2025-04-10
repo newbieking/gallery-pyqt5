@@ -22,7 +22,10 @@
 ## 安装说明
 ```bash
 # 克隆仓库
-git clone <仓库地址>
+git clone git@github.com:newbieking/gallery-pyqt5.git
+
+# 进入项目目录
+cd gallery-pyqt5
 
 # 安装依赖
 pip install PyQt5 shutil
